@@ -7,28 +7,48 @@ Color scheme: coolors.co/335c67-c89933-9e1946-cbcbd8-fefeff
 	#fefeff	White
 */
 
-
-/* Apply my color scheme to UIkit classes*/
-
-[class*="primary"] {
-	background-color: #c89933; /*Satin Sheen Gold*/
-
-	color: #fefeff; /*White*/
-}
-
-[class*="secondary"] {
-	background-color: #335c67; /*Deep Space Sparkle*/
-	background-color: #9e1946; /*Big Dip Oruby*/
-	color: #fefeff; /*White*/
-}
-
-[class*="default"] {
-	background-color: #fefeff; /*White*/
-	color: #fefeff; /*White*/
-}
-
-
 /* Custom classes*/
+
+.bg-white {
+	background-color: #fefeff; /*White*/
+}
+
+.bg-gold {
+	background-color: #c89933; /*Satin Sheen Gold*/
+}
+
+.bg-ruby {
+	background-color: #9e1946; /*Big Dip Oruby*/
+}
+
+.bg-space {
+	background-color: #335c67; /*Deep Space Sparkle*/
+}
+
+.bg-gray {
+	background-color: #cbcbd8; /*Lavender Gray*/
+}
+
+.txt-white {
+	color: #fefeff; /*White*/
+}
+
+.txt-gold {
+	color: #c89933; /*Satin Sheen Gold*/
+}
+
+.txt-ruby {
+	color: #9e1946; /*Big Dip Oruby*/
+}
+
+.txt-space- {
+	color: #335c67; /*Deep Space Sparkle*/
+}
+
+.txt-gray {
+	color: #cbcbd8; /*Lavender Gray*/
+}
+
 
 .cu-header-img {
 	width: 40%;
