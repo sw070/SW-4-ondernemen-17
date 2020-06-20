@@ -1,4 +1,34 @@
-/* Made by Evert TM */
+/*
+Color scheme: coolors.co/335c67-c89933-9e1946-cbcbd8-fefeff
+	#335c67	Deep Space Sparkle
+	#c89933	Satin Sheen Gold
+	#9e1946	Big Dip Oruby
+	#cbcbd8	Lavender Gray
+	#fefeff	White
+*/
+
+
+/* Apply my color scheme to UIkit classes*/
+
+[class*="primary"] {
+	background-color: #c89933; /*Satin Sheen Gold*/
+
+	color: #fefeff; /*White*/
+}
+
+[class*="secondary"] {
+	background-color: #335c67; /*Deep Space Sparkle*/
+	background-color: #9e1946; /*Big Dip Oruby*/
+	color: #fefeff; /*White*/
+}
+
+[class*="default"] {
+	background-color: #fefeff; /*White*/
+	color: #fefeff; /*White*/
+}
+
+
+/* Custom classes*/
 
 .cu-header-img {
 	width: 40%;
@@ -8,4 +38,4 @@
 
 .cu-socials {
 	margin: 0px;
-}
+}335
