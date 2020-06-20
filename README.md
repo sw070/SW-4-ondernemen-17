@@ -1,4 +1,7 @@
 # sw070
 
-Hey, doet [deze link](http://google.nl) het goed genoeg?
+Als jij deze mensen niet kent:
+	Geeske van de Bruinhorst
+	& Ruben Korstanje
+Dan moet jij hier niet zijn!
 
